@@ -4,9 +4,44 @@ body {
 
 h1 {
     text-align: center;
-    color: aqua;
+    color: azure;
+}
+
+li {
+    color: azure;
+}
+
+.lnk {
+    color: azure;
+}
+
+.idk {
+    background-color: azure;
+    color: darkblue;
 }
 
 .btn {
     border: 2px solid white;
+    background-color: cornflowerblue;
+    color: azure;
+}
+
+h2 {
+    color: azure;
+    text-align: center;
+}
+
+h3 {
+    color: bisque;
+    text-align: center;
+}
+
+p {
+    color: azure;
+    background-color: cornflowerblue;
+}
+
+#cpy {
+    background-color: azure;
+    color: cornflowerblue;
 }
