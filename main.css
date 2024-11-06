@@ -1,0 +1,12 @@
+body {
+    background-color: darkblue;
+}
+
+h1 {
+    text-align: center;
+    color: aqua;
+}
+
+.btn {
+    border: 2px solid white;
+}
